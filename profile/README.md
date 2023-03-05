@@ -9,7 +9,7 @@
 
 ### 📈 [Tradester](https://capstone-projects-2023-spring.github.io/project-algorithmic-trading/)
 
-### 👨‍🏫 [Discord Classroom](https://github.com/Capstone-Projects-2023-Spring/project-discord-classroom)
+### 👨‍🏫 [Discord Classroom](https://capstone-projects-2023-spring.github.io/project-discord-classroom/)
 
 ### 👥 [GroupMeet](https://capstone-projects-2023-spring.github.io/project-groupmeet/)
 
