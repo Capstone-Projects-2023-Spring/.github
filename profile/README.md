@@ -18,7 +18,7 @@
 ### 🛠️ [Tool Shed](https://capstone-projects-2023-spring.github.io/project-tool-shed/)
 
 
-## Section 003 Prof. Aldairi
+## Section 003 Prof. Aldwairi
 
 ### 📸 [Multi Purpose Camera](https://capstone-projects-2023-spring.github.io/project-multi-purpose-camera/)
 
